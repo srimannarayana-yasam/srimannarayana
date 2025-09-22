@@ -23,6 +23,31 @@
 
 I am a Multi-Cloud DevOps Engineer with 2+ years of experience working across AWS, Azure, and GCP. My expertise includes automation, CI/CD pipelines, and Infrastructure as Code to build scalable and secure cloud solutions. I focus on DevSecOps practices, ensuring security is integrated into every stage of development. Passionate about optimizing cloud infrastructure, I thrive on delivering reliable, cost-efficient, and high-performing systems.
 
+## 💻 Cloud Engineer (Academic Project Assistant)  
+*Aug 2023 – Aug 2024 | Worked under Professor [Name], [Department/College Name]*  
+
+🔹 **AWS Projects & Contributions**  
+
+- 🚀 Migrated and modernized a **Library Management System** on **AWS (EC2, RDS, S3, Load Balancer)** for high availability.  
+- 🌐 Built and deployed a **Graduation Ceremony Registration Portal** using **Elastic Beanstalk, Auto Scaling, CloudFront, and CloudWatch**, capable of handling **1000+ concurrent users**.  
+- 🎓 Assisted **10+ final-year student projects**, provisioning **VPCs, EC2, RDS, and S3** for secure and scalable deployments.  
+- 🔐 Managed **IAM roles, security groups, and access controls**, following AWS best practices.  
+- 💾 Implemented **backup & disaster recovery** strategies using **RDS snapshots & cross-region replication**.  
+- 💸 Conducted **monthly cost optimization reviews**, achieving ~20% savings via resource right-sizing.  
+- 📝 Created **documentation & technical support** guides for students and faculty on AWS usage.  
+
+---
+### 🛠️ Tech Stack  
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) 
+![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) 
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) 
+![Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white) 
+![CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white) 
+![VPC](https://img.shields.io/badge/AWS%20VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
 
 
 
