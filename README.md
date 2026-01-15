@@ -66,12 +66,12 @@ Passionate Software Engineer with expertise in cloud infrastructure and DevOps p
 <details>
 <summary><h2>🎓 Certifications</h2></summary>
 
-- 📜 **AWS Certified Solutions Architect - Associate** *(2024)*
-- 📜 **AWS Certified Developer - Associate** *(2023)*
-- 📜 **Certified Kubernetes Administrator (CKA)** *(2024)*
-- 📜 **HashiCorp Certified: Terraform Associate** *(2023)*
-
-*(Add or remove certifications as needed)*
+| Certification | Issuer | Status | Expiration Date |
+|--------------|--------|--------|-----------------|
+| ![AWS](https://img.shields.io/badge/AWS%20SOLUTIONS%20ARCHITECT%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | Mar/2026 |
+| ![Terraform](https://img.shields.io/badge/HASHICORP%20TERRAFORM%20ASSOCIATE-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | HashiCorp | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | No Expiry |
+| ![CKA](https://img.shields.io/badge/CERTIFIED%20KUBERNETES%20ADMINISTRATOR-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | Cloud Native Computing Foundation | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | Dec/2025 |
+| ![Docker](https://img.shields.io/badge/DOCKER%20CERTIFIED%20ASSOCIATE-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Docker | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | No Expiry |
 
 </details>
 
