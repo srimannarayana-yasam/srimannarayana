@@ -1,67 +1,139 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=1&pause=1000&color=800080&center=true&vCenter=true&width=1000&lines=Venkata+Srimannarayana+Yasam" alt="Name Banner" />
-</p>
+# 👋 Hi, I'm [Your Name]
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Certified+Cloud+Professional;AWS+%7C+AZURE+%7C+GCP" alt="Typing SVG" />
-</p>
 <div align="center">
+  
+### Software Engineer | Cloud & DevOps Specialist
 
-![Role](https://img.shields.io/badge/Role-Multi--Cloud%20DevSecOps%20Engineer-0099ff?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-4ecdc4?style=for-the-badge&logo=calendar&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=github-pages)](https://venkata0714.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-> *"Architecting scalable cloud solutions with passion for automation and innovation"*
+Passionate Software Engineer with expertise in cloud infrastructure and DevOps practices. I specialize in building scalable, automated solutions using modern cloud technologies and infrastructure as code. My focus is on creating robust CI/CD pipelines and maintaining high-availability systems.
 
-I am a Multi-Cloud DevOps Engineer with 2+ years of experience working across AWS, Azure, and GCP. My expertise includes automation, CI/CD pipelines, and Infrastructure as Code to build scalable and secure cloud solutions. I focus on DevSecOps practices, ensuring security is integrated into every stage of development. Passionate about optimizing cloud infrastructure, I thrive on delivering reliable, cost-efficient, and high-performing systems.
-
-## 💻 Cloud Engineer (Academic Project Assistant)  
-*Aug 2023 – Aug 2024 | Worked under Professor [Name], [Department/College Name]*  
-
-🔹 **AWS Projects & Contributions**  
-
-- 🚀 Migrated and modernized a **Library Management System** on **AWS (EC2, RDS, S3, Load Balancer)** for high availability.  
-- 🌐 Built and deployed a **Graduation Ceremony Registration Portal** using **Elastic Beanstalk, Auto Scaling, CloudFront, and CloudWatch**, capable of handling **1000+ concurrent users**.  
-- 🎓 Assisted **10+ final-year student projects**, provisioning **VPCs, EC2, RDS, and S3** for secure and scalable deployments.  
-- 🔐 Managed **IAM roles, security groups, and access controls**, following AWS best practices.  
-- 💾 Implemented **backup & disaster recovery** strategies using **RDS snapshots & cross-region replication**.  
-- 💸 Conducted **monthly cost optimization reviews**, achieving ~20% savings via resource right-sizing.  
-- 📝 Created **documentation & technical support** guides for students and faculty on AWS usage.  
-
----
-### 🛠️ Tech Stack  
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) 
-![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) 
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) 
-![Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white) 
-![CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white) 
-![VPC](https://img.shields.io/badge/AWS%20VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-
-
+- 🔭 Currently working on cloud-native applications and infrastructure automation
+- 🌱 Continuously learning and exploring new DevOps tools and practices
+- 💡 Interested in infrastructure optimization and cost-effective cloud solutions
+- 📫 Open to collaboration on innovative projects
 
 ---
 
+## 💼 Skills & Technologies
 
-# 📜 Certifications
+### ☁️ Cloud Platform
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-| Certification | Issuer | Status |
-|:-------------:|:------:|:------:|
-| ![AWS](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Certified-orange?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=40) | Amazon Web Services | ✅ Active (Issued Mar 2023 – Expires Mar 2026) |
-| ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-orange?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=40) | Amazon Web Services | ❌ Expired (Issued Jul 2022 – Expired Jul 2024) |
-| ![RedHat](https://img.shields.io/badge/Red_Hat_System_Admin_1_(RHCSA)-Certified-red?style=for-the-badge&logo=redhat&logoColor=white&logoWidth=40) | Red Hat & RHCE Linux Training & Certification Center | ✅ Active (Issued May 2022) |
-| ![RedHat](https://img.shields.io/badge/Red_Hat_System_Admin_2_(RHCSA)-Certified-red?style=for-the-badge&logo=redhat&logoColor=white&logoWidth=40) | Red Hat & RHCE Linux Training & Certification Center | ✅ Active (Issued May 2022) |
-| ![GCP](https://img.shields.io/badge/Google_Cloud_Pro_Cloud_Architect-Certified-blue?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=40) | Google Cloud Skills Boost | ✅ Active (Elastic Google Cloud Infrastructure: Scaling and Automation) |
-| ![GCP](https://img.shields.io/badge/Google_Cloud_Pro_Cloud_Architect-Certified-blue?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=40) | Google Cloud Skills Boost | ✅ Active (Build Infrastructure with Terraform on Google Cloud) |
-| ![Java](https://img.shields.io/badge/Java_Full_Stack-Certified-red?style=for-the-badge&logo=java&logoColor=white&logoWidth=40) | Wipro | ✅ Active |
+**Core AWS Services:**
+- **Compute:** EC2, Lambda, ECS, EKS
+- **Storage:** S3, EBS, EFS
+- **Database:** RDS, DynamoDB
+- **Networking:** VPC, Route53, CloudFront, ALB/NLB
+- **Security:** IAM, Security Groups, KMS, Secrets Manager
+- **Monitoring:** CloudWatch, CloudTrail
+
+### 🏗️ Infrastructure & Orchestration
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔄 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### 🛠️ Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+- 📜 **AWS Certified Solutions Architect** - [Add your certification details]
+- 📜 **AWS Certified Developer** - [Add your certification details]
+- 📜 **Certified Kubernetes Administrator (CKA)** - [Add your certification details]
+- 📜 **HashiCorp Terraform Associate** - [Add your certification details]
+
+*(Add or remove certifications as needed)*
+
+---
+
+## 🔥 Tech Stack in Action
+
+**Infrastructure as Code:**
+```hcl
+# Automating cloud infrastructure with Terraform
+# Building scalable and maintainable AWS environments
+```
+
+**Containerization & Orchestration:**
+```yaml
+# Deploying microservices with Docker
+# Managing clusters with Kubernetes
+# Implementing service mesh and monitoring
+```
+
+**CI/CD Pipelines:**
+```groovy
+# Automated build, test, and deployment workflows
+# Jenkins pipelines and GitHub Actions
+# Blue-green deployments and canary releases
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with fellow developers and working on exciting projects. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Automate everything, monitor closely, and deploy with confidence"*
+
+![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+
+</div>
