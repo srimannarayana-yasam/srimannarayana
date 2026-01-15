@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Venkata Srimannarayana Yasam
 
 <div align="center">
   
@@ -124,22 +124,70 @@ I'm always interested in connecting with fellow developers and working on exciti
 </details>
 
 <details open>
-<summary><h2>📊 GitHub Statistics</h2></summary>
+<summary><h2>📊 Stats and Activity</h2></summary>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
+
+### 📈 Activity
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 GitHub Activity
+- 🎯 **Total Commits:** Check your GitHub profile
+- 🔄 **Pull Requests Opened:** Check your activity
+- ✅ **Pull Requests Reviewed:** Check your contributions
+- 🐛 **Issues Opened:** Check your issues
+- 💬 **Issue Comments:** Active in discussions
+- 📦 **Repositories:** Check your repos
+- 📜 **License Preference:** MIT License
+- 📤 **Releases:** Check your releases
+- 📦 **Packages:** Published packages
+- 💾 **Storage Used:** Check disk usage
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌟 Community Stats
+- 📂 **Contributed to:** Multiple repositories
+- 🏢 **Organizations:** Member of organizations
+- 👥 **Following:** Active community member
+- 💖 **Sponsoring:** Supporting open source
+- ⭐ **Starred Repositories:** Curated collection
+- 👀 **Watching:** Keeping track of projects
+- 💝 **Sponsors:** Community support
+- 🌟 **Stargazers:** Project supporters
+- 🔱 **Forks:** Project derivatives
+- 👁️ **Watchers:** Following your work
+
+</td>
+</tr>
+</table>
+
+### 📊 GitHub Statistics
 
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
-</details>
+### 💻 Most Used Languages
 
-<details open>
-<summary><h2>📈 Activity & Contributions</h2></summary>
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+### 📈 Contribution Graph
 
 <div align="center">
 
