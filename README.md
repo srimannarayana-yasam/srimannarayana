@@ -132,52 +132,7 @@ I'm always interested in connecting with fellow developers and working on exciti
 
 </div>
 
-### 📈 Activity
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 📊 GitHub Activity
-- 🎯 **Total Commits:** Check your GitHub profile
-- 🔄 **Pull Requests Opened:** Check your activity
-- ✅ **Pull Requests Reviewed:** Check your contributions
-- 🐛 **Issues Opened:** Check your issues
-- 💬 **Issue Comments:** Active in discussions
-- 📦 **Repositories:** Check your repos
-- 📜 **License Preference:** MIT License
-- 📤 **Releases:** Check your releases
-- 📦 **Packages:** Published packages
-- 💾 **Storage Used:** Check disk usage
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌟 Community Stats
-- 📂 **Contributed to:** Multiple repositories
-- 🏢 **Organizations:** Member of organizations
-- 👥 **Following:** Active community member
-- 💖 **Sponsoring:** Supporting open source
-- ⭐ **Starred Repositories:** Curated collection
-- 👀 **Watching:** Keeping track of projects
-- 💝 **Sponsors:** Community support
-- 🌟 **Stargazers:** Project supporters
-- 🔱 **Forks:** Project derivatives
-- 👁️ **Watchers:** Following your work
-
-</td>
-</tr>
-</table>
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
 
 ### 💻 Most Used Languages
 
