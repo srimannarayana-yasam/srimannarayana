@@ -12,30 +12,6 @@
 
 ---
 
-<details>
-<summary><h2>🤝 Contact Me</h2></summary>
-
-I'm always interested in connecting with fellow developers and working on exciting projects. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
-**Let's collaborate on:**
-- ☁️ Cloud infrastructure projects
-- 🔧 DevOps automation tools
-- 📚 Technical writing and documentation
-- 🎓 Mentoring and knowledge sharing
-
-</details>
-
----
-
 <details open>
 <summary><h2>🚀 About Me</h2></summary>
 
@@ -48,9 +24,7 @@ Passionate Software Engineer with expertise in cloud infrastructure and DevOps p
 
 </details>
 
----
-
-<details>
+<details open>
 <summary><h2>🤝 Connect with Me</h2></summary>
 
 I'm always interested in connecting with fellow developers and working on exciting projects. Feel free to reach out!
@@ -58,24 +32,15 @@ I'm always interested in connecting with fellow developers and working on exciti
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
-**Let's collaborate on:**
-- ☁️ Cloud infrastructure projects
-- 🔧 DevOps automation tools
-- 📚 Technical writing and documentation
-- 🎓 Mentoring and knowledge sharing
-
 </details>
 
----
-
-<details>
+<details open>
 <summary><h2>🎓 Certifications</h2></summary>
 
 | Certification | Issuer | Status | Expiration Date |
@@ -87,97 +52,78 @@ I'm always interested in connecting with fellow developers and working on exciti
 
 </details>
 
----
+<details open>
+<summary><h2>🔧 Tech Stack</h2></summary>
 
-<details>
-<summary><h2>💼 Skills & Technologies</h2></summary>
+### ☁️ Cloud Platforms & DevOps
 
-### ☁️ Cloud Platform
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**Core AWS Services:**
-- **Compute:** EC2, Lambda, ECS, EKS
-- **Storage:** S3, EBS, EFS
-- **Database:** RDS, DynamoDB
-- **Networking:** VPC, Route53, CloudFront, ALB/NLB
-- **Security:** IAM, Security Groups, KMS, Secrets Manager
-- **Monitoring:** CloudWatch, CloudTrail
+### 🏗️ Infrastructure as Code & Automation
 
-### 🏗️ Infrastructure & Orchestration
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📦 Containerization & CI/CD
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🔄 CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### 💻 Programming & Scripting
+### 💻 Programming Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Other Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </details>
 
----
-
-<details>
-<summary><h2>🎓 Certifications</h2></summary>
-
-| Certification | Issuer | Status | Expiration Date |
-|--------------|--------|--------|-----------------|
-| ![AWS](https://img.shields.io/badge/AWS%20SOLUTIONS%20ARCHITECT%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | Mar/2026 |
-| ![Terraform](https://img.shields.io/badge/HASHICORP%20TERRAFORM%20ASSOCIATE-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | HashiCorp | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | No Expiry |
-| ![CKA](https://img.shields.io/badge/CERTIFIED%20KUBERNETES%20ADMINISTRATOR-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | Cloud Native Computing Foundation | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | Dec/2025 |
-| ![Docker](https://img.shields.io/badge/DOCKER%20CERTIFIED%20ASSOCIATE-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Docker | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | No Expiry |
-
-</details>
-
----
-
-<details>
-<summary><h2>🔥 Tech Stack in Action</h2></summary>
-
-### Infrastructure as Code
-```hcl
-# Automating cloud infrastructure with Terraform
-# Building scalable and maintainable AWS environments
-# Multi-environment deployments (Dev, Staging, Production)
-```
-
-### Containerization & Orchestration
-```yaml
-# Deploying microservices with Docker
-# Managing clusters with Kubernetes
-# Implementing service mesh and monitoring
-# Auto-scaling and load balancing
-```
-
-### CI/CD Pipelines
-```groovy
-# Automated build, test, and deployment workflows
-# Jenkins pipelines and GitHub Actions
-# Blue-green deployments and canary releases
-# Infrastructure validation and security scanning
-```
-
-### Cloud Architecture
-- Designed and implemented multi-tier applications on AWS
-- Built serverless architectures using Lambda and API Gateway
-- Configured VPCs with public/private subnets and NAT gateways
-- Implemented auto-scaling groups with CloudWatch alarms
-- Set up centralized logging and monitoring solutions
-
-</details>
-
----
-
-<details>
+<details open>
 <summary><h2>📊 GitHub Statistics</h2></summary>
 
 <div align="center">
@@ -192,9 +138,7 @@ I'm always interested in connecting with fellow developers and working on exciti
 
 </details>
 
----
-
-<details>
+<details open>
 <summary><h2>📈 Activity & Contributions</h2></summary>
 
 <div align="center">
@@ -202,36 +146,6 @@ I'm always interested in connecting with fellow developers and working on exciti
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
 
 </div>
-
-### Recent Activity
-- 🚀 Contributing to open-source DevOps projects
-- 📝 Writing technical blogs about cloud infrastructure
-- 🔧 Building automation tools and scripts
-- 🎯 Participating in cloud architecture discussions
-
-</details>
-
----
-
-<details>
-<summary><h2>🤝 Contact Me</h2></summary>
-
-I'm always interested in connecting with fellow developers and working on exciting projects. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
-**Let's collaborate on:**
-- ☁️ Cloud infrastructure projects
-- 🔧 DevOps automation tools
-- 📚 Technical writing and documentation
-- 🎓 Mentoring and knowledge sharing
 
 </details>
 
