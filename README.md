@@ -12,7 +12,8 @@
 
 ---
 
-## 🚀 About Me
+<details open>
+<summary><h2>🚀 About Me</h2></summary>
 
 Passionate Software Engineer with expertise in cloud infrastructure and DevOps practices. I specialize in building scalable, automated solutions using modern cloud technologies and infrastructure as code. My focus is on creating robust CI/CD pipelines and maintaining high-availability systems.
 
@@ -21,9 +22,12 @@ Passionate Software Engineer with expertise in cloud infrastructure and DevOps p
 - 💡 Interested in infrastructure optimization and cost-effective cloud solutions
 - 📫 Open to collaboration on innovative projects
 
+</details>
+
 ---
 
-## 💼 Skills & Technologies
+<details>
+<summary><h2>💼 Skills & Technologies</h2></summary>
 
 ### ☁️ Cloud Platform
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -55,44 +59,63 @@ Passionate Software Engineer with expertise in cloud infrastructure and DevOps p
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
+</details>
+
 ---
 
-## 🎓 Certifications
+<details>
+<summary><h2>🎓 Certifications</h2></summary>
 
-- 📜 **AWS Certified Solutions Architect** - [Add your certification details]
-- 📜 **AWS Certified Developer** - [Add your certification details]
-- 📜 **Certified Kubernetes Administrator (CKA)** - [Add your certification details]
-- 📜 **HashiCorp Terraform Associate** - [Add your certification details]
+- 📜 **AWS Certified Solutions Architect - Associate** *(2024)*
+- 📜 **AWS Certified Developer - Associate** *(2023)*
+- 📜 **Certified Kubernetes Administrator (CKA)** *(2024)*
+- 📜 **HashiCorp Certified: Terraform Associate** *(2023)*
 
 *(Add or remove certifications as needed)*
 
+</details>
+
 ---
 
-## 🔥 Tech Stack in Action
+<details>
+<summary><h2>🔥 Tech Stack in Action</h2></summary>
 
-**Infrastructure as Code:**
+### Infrastructure as Code
 ```hcl
 # Automating cloud infrastructure with Terraform
 # Building scalable and maintainable AWS environments
+# Multi-environment deployments (Dev, Staging, Production)
 ```
 
-**Containerization & Orchestration:**
+### Containerization & Orchestration
 ```yaml
 # Deploying microservices with Docker
 # Managing clusters with Kubernetes
 # Implementing service mesh and monitoring
+# Auto-scaling and load balancing
 ```
 
-**CI/CD Pipelines:**
+### CI/CD Pipelines
 ```groovy
 # Automated build, test, and deployment workflows
 # Jenkins pipelines and GitHub Actions
 # Blue-green deployments and canary releases
+# Infrastructure validation and security scanning
 ```
+
+### Cloud Architecture
+- Designed and implemented multi-tier applications on AWS
+- Built serverless architectures using Lambda and API Gateway
+- Configured VPCs with public/private subnets and NAT gateways
+- Implemented auto-scaling groups with CloudWatch alarms
+- Set up centralized logging and monitoring solutions
+
+</details>
 
 ---
 
-## 📊 GitHub Statistics
+<details>
+<summary><h2>📊 GitHub Statistics</h2></summary>
 
 <div align="center">
   
@@ -104,9 +127,12 @@ Passionate Software Engineer with expertise in cloud infrastructure and DevOps p
 
 </div>
 
+</details>
+
 ---
 
-## 📈 Activity & Contributions
+<details>
+<summary><h2>📈 Activity & Contributions</h2></summary>
 
 <div align="center">
 
@@ -114,9 +140,18 @@ Passionate Software Engineer with expertise in cloud infrastructure and DevOps p
 
 </div>
 
+### Recent Activity
+- 🚀 Contributing to open-source DevOps projects
+- 📝 Writing technical blogs about cloud infrastructure
+- 🔧 Building automation tools and scripts
+- 🎯 Participating in cloud architecture discussions
+
+</details>
+
 ---
 
-## 🤝 Let's Connect!
+<details>
+<summary><h2>🤝 Contact Me</h2></summary>
 
 I'm always interested in connecting with fellow developers and working on exciting projects. Feel free to reach out!
 
@@ -125,8 +160,17 @@ I'm always interested in connecting with fellow developers and working on exciti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
+
+**Let's collaborate on:**
+- ☁️ Cloud infrastructure projects
+- 🔧 DevOps automation tools
+- 📚 Technical writing and documentation
+- 🎓 Mentoring and knowledge sharing
+
+</details>
 
 ---
 
