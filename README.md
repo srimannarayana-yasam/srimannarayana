@@ -11,10 +11,9 @@
 <details open>
 <summary><h2>🚀 About Me</h2></summary>
 
-Passionate Software Engineer with expertise in cloud infrastructure and DevOps practices. I specialize in building scalable, automated solutions using modern cloud technologies and infrastructure as code. My focus is on creating robust CI/CD pipelines and maintaining high-availability systems.
+Software Engineer with 2+ years of experience building secure, production-grade applications using Java, Spring Boot, and AWS in regulated banking environments. Specialized in cloud security architecture, implementing encryption standards (AES-GCM, RSA), IAM policies, and MFA solutions that protect sensitive financial data while maintaining system performance. AWS Certified Solutions Architect with proven expertise in microservices design, serverless automation, and cost optimization. Passionate about writing clean, maintainable code and applying security-first principles to solve complex business problems.
 
 - 🔭 Currently working on cloud-native applications and infrastructure automation
-- 🌱 Continuously learning and exploring new DevOps tools and practices
 - 💡 Interested in infrastructure optimization and cost-effective cloud solutions
 - 📫 Open to collaboration on innovative projects
 
@@ -121,9 +120,3 @@ I'm always interested in connecting with fellow developers and working on exciti
 ---
 
 <div align="center">
-
-### 💡 *"Automate everything, monitor closely, and deploy with confidence"*
-
-![Visitor Count](https://profile-counter.glitch.me/srimannarayana-yasam/count.svg)
-
-</div>
