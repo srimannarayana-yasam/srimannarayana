@@ -40,7 +40,7 @@ I'm always interested in connecting with fellow developers and working on exciti
 
 | Certification | Issuer | Expiration Date |
 |--------------|--------|-----------------|
-| ![AWS](https://img.shields.io/badge/AWS%20CLOUD%20PRACTITIONER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | Expired |
+| ![AWS](https://img.shields.io/badge/AWS%20CLOUD%20PRACTITIONER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | Expired 2025 |
 | ![AWS](https://img.shields.io/badge/AWS%20SOLUTIONS%20ARCHITECT%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | Mar/2026 |
 | ![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD%20PROFESSIONAL%20ARCHITECT-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Google Cloud | [Verify](http://skills.google/public_profiles/5013a9cb-7561-4ad1-9b7a-7578dcd9fcb1) |
 
