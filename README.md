@@ -27,10 +27,10 @@ I'm always interested in connecting with fellow developers and working on exciti
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/venkata-yasam-649226375)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-yasam-649226375)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srimannarayana.yasam@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/earner/dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srimannarayana-yasam/srimannarayana)
 
 </div>
 
@@ -39,12 +39,11 @@ I'm always interested in connecting with fellow developers and working on exciti
 <details open>
 <summary><h2>🎓 Certifications</h2></summary>
 
-| Certification | Issuer | Status | Expiration Date |
-|--------------|--------|--------|-----------------|
-| ![AWS](https://img.shields.io/badge/AWS%20SOLUTIONS%20ARCHITECT%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | Mar/2026 |
-| ![Terraform](https://img.shields.io/badge/HASHICORP%20TERRAFORM%20ASSOCIATE-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | HashiCorp | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | No Expiry |
-| ![CKA](https://img.shields.io/badge/CERTIFIED%20KUBERNETES%20ADMINISTRATOR-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | Cloud Native Computing Foundation | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | Dec/2025 |
-| ![Docker](https://img.shields.io/badge/DOCKER%20CERTIFIED%20ASSOCIATE-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Docker | ![Active](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square) | No Expiry |
+| Certification | Issuer | Expiration Date |
+|--------------|--------|-----------------|
+| ![AWS](https://img.shields.io/badge/AWS%20CLOUD%20PRACTITIONER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | Expired |
+| ![AWS](https://img.shields.io/badge/AWS%20SOLUTIONS%20ARCHITECT%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | Mar/2026 |
+| ![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD%20PROFESSIONAL%20ARCHITECT-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Google Cloud | [Verify](http://skills.google/public_profiles/5013a9cb-7561-4ad1-9b7a-7578dcd9fcb1) |
 
 </details>
 
@@ -119,41 +118,12 @@ I'm always interested in connecting with fellow developers and working on exciti
 
 </details>
 
-<details open>
-<summary><h2>📊 Stats and Activity</h2></summary>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
-
-
-
-### 💻 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
-
-</div>
-
-</details>
-
 ---
 
 <div align="center">
 
 ### 💡 *"Automate everything, monitor closely, and deploy with confidence"*
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/srimannarayana-yasam/count.svg)
 
 </div>
