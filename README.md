@@ -1,4 +1,4 @@
-👋 Hi, I’m Venkata Srimannarayana Yasam
+Venkata Srimannarayana Yasam
 I'm a software engineer passionate about building scalable, secure, and cloud-native applications. I have hands-on experience in Java, Spring Boot, AWS, serverless architectures, and full-stack development, and I enjoy designing solutions that combine efficiency with maintainability.
 
 💻 I love working on microservices, cloud infrastructure, and DevOps pipelines, as well as exploring emerging technologies to solve real-world problems. I’m also interested in open-source contributions and learning best practices from the developer community.
