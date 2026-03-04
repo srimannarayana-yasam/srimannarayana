@@ -1,6 +1,5 @@
-<div align="center">
-  **Venkata Srimannarayana Yasam**
-</div>
+<details>
+  <summary>About Me - Venkata Srimannarayana Yasam</summary>
 
 Hi there! I’m a passionate software engineer focused on building **scalable, secure, and cloud-native applications**. I specialize in **Java, Spring Boot, AWS, serverless architectures, and full-stack development**.
 
@@ -8,7 +7,7 @@ I enjoy designing solutions that are **efficient, maintainable, and impactful**,
 
 🌱 Currently, I’m enhancing my skills in **cloud architecture, CI/CD workflows, and modern front-end frameworks**, while contributing to **open-source projects** whenever possible.
 
-📫 Let’s connect: [LinkedIn](Your_LinkedIn_URL) | [Email](mailto:srimannarayana.yasam@gmail.com)
+</details>
 </details>
 
 <details open>
