@@ -1,9 +1,10 @@
-Venkata Srimannarayana Yasam
-I'm a software engineer passionate about building scalable, secure, and cloud-native applications. I have hands-on experience in Java, Spring Boot, AWS, serverless architectures, and full-stack development, and I enjoy designing solutions that combine efficiency with maintainability.
+<div align="center"> **Venkata Srimannarayana Yasam** </div>
 
-💻 I love working on microservices, cloud infrastructure, and DevOps pipelines, as well as exploring emerging technologies to solve real-world problems. I’m also interested in open-source contributions and learning best practices from the developer community.
+👋 Hi there! I’m a passionate software engineer focused on building scalable, secure, and cloud-native applications. I specialize in Java, Spring Boot, AWS, serverless architectures, and full-stack development.
 
-🌱 Currently, I’m focusing on enhancing my cloud architecture skills, improving CI/CD workflows, and building side projects that integrate modern front-end and back-end frameworks.
+I enjoy designing solutions that are efficient, maintainable, and impactful, exploring microservices, DevOps pipelines, and modern cloud technologies to solve real-world problems.
+
+🌱 Currently, I’m enhancing my skills in cloud architecture, CI/CD workflows, and modern front-end frameworks, while contributing to open-source projects whenever possible.
 
 </details>
 
