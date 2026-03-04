@@ -1,21 +1,8 @@
-# 👋 Hi, I'm Venkata Srimannarayana Yasam
+👋 Hi, I’m Venkata Srimannarayana Yasam — a software engineer passionate about building scalable, secure, and cloud-native applications. I have hands-on experience in Java, Spring Boot, AWS, serverless architectures, and full-stack development, and I enjoy designing solutions that combine efficiency with maintainability.
 
-<div align="center">
-  
-### Software Engineer | Cloud & DevOps Specialist
+💻 I love working on microservices, cloud infrastructure, and DevOps pipelines, as well as exploring emerging technologies to solve real-world problems. I’m also interested in open-source contributions and learning best practices from the developer community.
 
-</div>
-
----
-
-<details open>
-<summary><h2>🚀 About Me</h2></summary>
-
-Software Engineer with 2+ years of experience building secure, production-grade applications using Java, Spring Boot, and AWS in regulated banking environments. Specialized in cloud security architecture, implementing encryption standards (AES-GCM, RSA), IAM policies, and MFA solutions that protect sensitive financial data while maintaining system performance. AWS Certified Solutions Architect with proven expertise in microservices design, serverless automation, and cost optimization. Passionate about writing clean, maintainable code and applying security-first principles to solve complex business problems.
-
-- 🔭 Currently working on cloud-native applications and infrastructure automation
-- 💡 Interested in infrastructure optimization and cost-effective cloud solutions
-- 📫 Open to collaboration on innovative projects
+🌱 Currently, I’m focusing on enhancing my cloud architecture skills, improving CI/CD workflows, and building side projects that integrate modern front-end and back-end frameworks.
 
 </details>
 
