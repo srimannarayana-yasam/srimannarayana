@@ -8,7 +8,6 @@ I enjoy designing solutions that are **efficient, maintainable, and impactful**,
 🌱 Currently, I’m enhancing my skills in **cloud architecture, CI/CD workflows, and modern front-end frameworks**, while contributing to **open-source projects** whenever possible.
 
 </details>
-</details>
 
 <details open>
 <summary><h2>🤝 Connect with Me</h2></summary>
@@ -105,3 +104,29 @@ I'm always interested in connecting with fellow developers and working on exciti
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=srimannarayana-yasam&color=blueviolet&style=for-the-badge)
+
+</div>
+
+## 📊 Stats and Activity
+
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srimannarayana-yasam&show_icons=true&theme=tokyonight)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srimannarayana-yasam&layout=compact&theme=tokyonight)
+
+  ### 🔥 Streak Stats
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=srimannarayana-yasam&theme=tokyonight)
+
+  ### 📈 Activity Graph
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srimannarayana-yasam&theme=tokyo-night)
+
+  </div>
+
+
+  
+</h2></summary>
